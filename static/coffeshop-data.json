@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Americano",
+    "price": "10000",
+    "id": "cf001",
+    "description": "Caffè Americano is a type of coffee drink prepared by diluting an espresso with hot water, giving it a similar strength to, but different flavor from, traditionally brewed coffee.",
+    "poster": "https://www.starbucksathome.com/id/sites/default/files/2021-03/3-CaffeAmericano_LongShadow_Cream_1.png"
+  },
+  {
+    "name": "Latte",
+    "price": "20000",
+    "id": "cf002",
+    "description": "Caffè latte, often shortened to just latte in English, is a coffee beverage of Italian origin made with espresso and steamed milk.",
+    "poster": "https://www.pngarts.com/files/1/Cafe-Latte-PNG-Image-Background.png"
+  },
+  {
+    "name": "Espresso",
+    "price": "15000",
+    "id": "cf003",
+    "description": "Espresso is a coffee-brewing method of Italian origin, in which a small amount of nearly boiling water is forced under 9–10 bars of pressure through finely-ground coffee beans.",
+    "poster": "https://www.pngall.com/wp-content/uploads/4/Cafe-Espresso.png"
+  }
+]
